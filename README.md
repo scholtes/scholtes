@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @scholtes
 - 👀 I’m interested in DevOps and Observability
-- 🌱 I’m currently learning OpenTelemetry, Harness, k8s, Helm Charts
-<!---- 💞️ I’m looking to collaborate on ...--->
+- 🌱 I’m currently learning OpenTelemetry, Harness, k8s, Helm Charts <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 Reach me on LinkedIn
 
 <!---
