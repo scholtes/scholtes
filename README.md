@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps and Observability
 - 🌱 I’m currently learning OpenTelemetry, Harness, k8s, Helm Charts
 - 📫 Reach me on LinkedIn
-- <!---- 💞️ I’m looking to collaborate on ...--->
+<!---- 💞️ I’m looking to collaborate on ...--->
 
 <!---
 scholtes/scholtes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
